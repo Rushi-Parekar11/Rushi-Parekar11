@@ -1,11 +1,17 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋, I'm Rushikesh parekar</h1>
 
-###
+
 
 <h3 align="left">👩‍💻  About Me</h3>
+<p  align="left" >Undergraduate at MGM's Jawaharlal Nehru Engineering College. Aurangabad (MH). computer science Engineering'26</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
 
 
-## 🌐 Socials:
+
+###
+## 
+
+🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-parekar) 
 
 # 💻 Tech Stack:
